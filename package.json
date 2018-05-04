@@ -1,0 +1,19 @@
+{
+  "name": "pigrenback",
+  "version": "1.0.0",
+  "description": "Back office for pigren killboard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinA85/pigrenBack.git"
+  },
+  "author": "Martin Allimonier <allimonier.martin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinA85/pigrenBack/issues"
+  },
+  "homepage": "https://github.com/martinA85/pigrenBack#readme"
+}
